@@ -45,3 +45,5 @@ The application was tested for:
 - Program exit.
 
 All seven tests were completed successfully.
+
+![Main Menu](./Screenshot%202026-11-06%20194813.png)
