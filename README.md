@@ -12,8 +12,9 @@ The Student Registration & Contact Intelligence System is a Python-based applica
 - Prevent duplicate student registrations.
 - Update existing student details.
 - Prevent duplicate entries during updates.
--  Generate analytics reports.
--  Exit the application safely.
+- Delete existing student records.
+- Generate analytics reports.
+- Exit the application safely.
 
 **Project Files**
 
