@@ -51,3 +51,6 @@ All seven tests were completed successfully.
 ![Main Menu](./Screenshot%202026-11-06%20201649.png)
 ![Main Menu](./Screenshot%202026-11-06%20202601.png)
 ![Main Menu](./Screenshot%202026-11-06%20205543.png)
+![Main Menu](./Screenshot%202026-11-06%20205651.png)
+![Main Menu](./Screenshot%202026-11-06%20205735.png)
+![Main Menu](./Screenshot%202026-11-06%20205932.png)
