@@ -15,14 +15,7 @@ The Student Registration & Contact Intelligence System is a Python-based applica
 -  Generate analytics reports.
 -  Exit the application safely.
 
-**  Technologies Used**
-
-- Python
-- CSV (Comma separated values)
-- File Handling
-- Python Modules and Functions
-
-** Project Files**
+**Project Files**
 
 - main.py - Main application.
 - analytics.py - Generates student analytics reports.
@@ -37,4 +30,18 @@ The Student Registration & Contact Intelligence System is a Python-based applica
 2. Download or clone this repository.
 3. Open the project folder.
 4. Run the following command
-       python main.py
+
+   python main.py
+
+**Testing**
+
+The application was tested for:
+- Student record display.
+- Student searching.
+- Student registration.
+- Duplicate prevention.
+- Student information updates.
+- Analytics report genaretion.
+- Program exit.
+
+All seven tests were completed successfully.
