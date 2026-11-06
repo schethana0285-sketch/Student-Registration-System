@@ -47,5 +47,6 @@ The application was tested for:
 All seven tests were completed successfully.
 
 ![Main Menu](./Screenshot%202026-11-06%20194813.png)
+![Main Menu](./Screenshot%202026-11-06%20202819.png)
 ![Main Menu](./Screenshot%202026-11-06%20201649.png)
 ![Main Menu](./Screenshot%202026-11-06%20202601.png)
