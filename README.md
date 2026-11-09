@@ -47,11 +47,12 @@ The application was tested for:
 
 All seven tests were completed successfully.
 
-![Main Menu](./Screenshot%202026-11-06%20194813.png)
-![Main Menu](./Screenshot%202026-11-06%20202819.png)
-![Main Menu](./Screenshot%202026-11-06%20201649.png)
-![Main Menu](./Screenshot%202026-11-06%20202601.png)
-![Main Menu](./Screenshot%202026-11-06%20205543.png)
-![Main Menu](./Screenshot%202026-11-06%20205651.png)
-![Main Menu](./Screenshot%202026-11-06%20205735.png)
-![Main Menu](./Screenshot%202026-11-06%20205932.png)
+![Screenshot](proof/Screenshot%202026-11-06%20194813.png)
+![Screenshot](proof/Screenshot%202026-11-06%2020819.png)
+![Screenshot](proof/Screenshot%202026-11-06%20205932.png)
+![Screenshot](proof/Screenshot%202026-11-06%20201649.png)
+![Screenshot](proof/Screenshot%202026-11-06%20202601.png)
+![Screenshot](proof/Screenshot%202026-11-06%20205543.png)
+![Screenshot](proof/Screenshot%202026-11-06%20205651.png)
+![Screenshot](proof/Screenshot%202026-11-06%20205735.png)
+![Screenshot](proof/Screenshot%202026-11-06%20205932.png)
